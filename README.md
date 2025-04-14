@@ -1,6 +1,6 @@
-# PRICE Prediction Project - LET'STOCK
+# STOCK Consumption Prediction - LET'STOCK - PRICE
 
-This project focuses on predicting product prices using historical data and advanced machine learning techniques, followed by the development of a user-friendly graphical interface for deployment. It was conducted as part of a collaboration with LET'STOCK, a client seeking to automate and enhance pricing predictions.
+This project focuses on predicting **product stock consumption** using historical data and advanced machine learning techniques, followed by the development of a user-friendly graphical interface for deployment. It was conducted as part of a collaboration with **LET'STOCK**, a client seeking to automate and enhance stock-level forecasting to improve inventory management and reduce shortages or overstocking.
 
 ## Project Overview
 - Created by: Abdelaziz Mohamad
