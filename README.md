@@ -52,16 +52,6 @@ A desktop application was built using **Tkinter** to allow non-technical users t
 
 This step is under development. The goal is to create a packaged **executable file (.exe)** so the user can run the app directly without launching Python.
 
-### To Run Locally:
-1. Make sure all dependencies are installed:
-```bash
-pip install -r requirements.txt
-```
-2. Launch the interface:
-```bash
-python app.py
-```
-
 ## Future Improvements
 - Develop an executable version of the application to simplify usage.
 - Automatically check and install missing dependencies on execution.
