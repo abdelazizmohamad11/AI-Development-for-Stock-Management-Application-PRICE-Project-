@@ -5,7 +5,7 @@ This project focuses on predicting product prices using historical data and adva
 ## Project Overview
 - Created by: Abdelaziz Mohamad
 - Project Type: End-to-End Machine Learning Pipeline + GUI Application
-- Technologies: Python, Scikit-learn, Keras, Tkinter, Pandas, Matplotlib
+- Technologies: Python, Scikit-learn, Numoy, Tkinter, Pandas, Matplotlib, Tkinter ...
 
 ## Full ML Pipeline Implementation
 
