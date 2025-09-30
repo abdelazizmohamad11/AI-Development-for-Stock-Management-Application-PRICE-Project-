@@ -5,7 +5,7 @@ This project focuses on predicting **product stock consumption** using historica
 ## Project Overview
 - Created by: Abdelaziz Mohamad
 - Project Type: End-to-End Machine Learning Pipeline + GUI Application
-- Technologies: Python, Scikit-learn, Numoy, Tkinter, Pandas, Matplotlib, Tkinter ...
+- Technologies: Python, Scikit-learn, Numpy, Tkinter, Pandas, Matplotlib, Tkinter ...
 
 ## Full ML Pipeline Implementation
 
